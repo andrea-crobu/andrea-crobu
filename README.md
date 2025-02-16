@@ -17,13 +17,13 @@ While my main expertise focuses on developing intelligent systems for human robo
 - **Description:** Finetuned a Flan-T5 (base) to summarise a conversation
 - **Technologies:** Python, PyTorch, TensorFlow, transformers
 - **Highlights:** NLP, dataset preprocessing using custom pipeline, achievement of better results using LoRA
-- [🔗 Repository Link](#)
+- [🔗 Repository Link](https://github.com/andrea-crobu/Fine-Tune-a-Large-Language-Model-LLM-for-conversation-summarisation)
 
 ### **2️⃣ AI-Powered Image Caption Generation**
 - **Description:** from-scratch development of a Encoder-Decoder model that takes an image in input and outputs a caption for it
-- **Technologies:** Python, PyTorch, TensorFlow, CN, LSTM
+- **Technologies:** Python, PyTorch, TensorFlow, CNN, LSTM
 - **Highlights:** development from scratch of an EncoderCNN using a pretrained ResNet-152 and a custom Decoder based on LSTM
-- [🔗 Repository Link](#)
+- [🔗 Repository Link](https://github.com/andrea-crobu/AI-Powered-Image-Caption-Generation)
   
 ## 🛠️ Skills & Tech Stack
 - **Machine Learning & AI:** PyTorch, TensorFlow, sklearn, transformers
