@@ -33,7 +33,7 @@ While my main expertise focuses on developing intelligent systems for human robo
 - **Regulatory & Compliance:** Matrix Requirements, Risk Management, AI-Act understanding and basic knowledge
 
 ## 📫 Contact
-- **GitHub Profile:** [@yourgithub](#)
+- **GitHub Profile:** [andrea-crobu](https://github.com/andrea-crobu)
 - **Email:** andreacrobu2@gmail.com
 
 ---
