@@ -27,6 +27,13 @@ Feel free to explore my projects and connect with me!
 - **Technologies:** Python, PyTorch, TensorFlow, CNN, LSTM
 - **Highlights:** development from scratch of an EncoderCNN using a pretrained ResNet-152 and a custom Decoder based on LSTM
 - [🔗 Repository Link](https://github.com/andrea-crobu/AI-Powered-Image-Caption-Generation)
+
+### **3️⃣ RAG System for Cooking Book Q&A (Coming Soon)**
+- **Description:** Developing a Retrieval-Augmented Generation (RAG) system to enhance the accuracy and reliability of a Large Language Model in answering questions about a cooking book.
+- **Technologies:** Python, LangChain
+- **Highlights:** Retrieval-Augmented Generation (RAG), improved factual consistency, knowledge-based query answering
+- [🔗 Repository Link](#) *(Coming Soon)*
+
   
 ## 🛠️ Skills & Tech Stack
 - **Machine Learning & AI:** PyTorch, TensorFlow, sklearn, transformers
