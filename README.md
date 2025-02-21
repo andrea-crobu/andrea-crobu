@@ -16,25 +16,25 @@ Feel free to explore my projects and connect with me!
 
 ## 🔥 Featured Projects
 
-### **1️⃣ Fine-Tune a Large Language Model (LLM) for conversation summarisation**
+### **1️⃣ Cooking Assistant powered by RAG**
+- **Description:** Developing a Retrieval-Augmented Generation (RAG) system to enhance the accuracy and reliability of a Large Language Model in answering questions about a cooking book.
+- **Technologies:** Python, LangChain
+- **Highlights:** Retrieval-Augmented Generation (RAG), improved factual consistency, knowledge-based query answering
+- [🔗 Repository Link](https://github.com/andrea-crobu/Cooking-Assistant-powered-by-RAG)
+  
+### **2️⃣ Fine-Tune a Large Language Model (LLM) for conversation summarisation**
 - **Description:** Finetuned a Flan-T5 (base) to summarise a conversation
 - **Technologies:** Python, PyTorch, TensorFlow, transformers
 - **Highlights:** NLP, dataset preprocessing using custom pipeline, achievement of better results using LoRA
 - [🔗 Repository Link](https://github.com/andrea-crobu/Fine-Tune-a-Large-Language-Model-LLM-for-conversation-summarisation)
 
-### **2️⃣ AI-Powered Image Caption Generation**
+### **3️⃣ AI-Powered Image Caption Generation**
 - **Description:** from-scratch development of a Encoder-Decoder model that takes an image in input and outputs a caption for it
 - **Technologies:** Python, PyTorch, TensorFlow, CNN, LSTM
 - **Highlights:** development from scratch of an EncoderCNN using a pretrained ResNet-152 and a custom Decoder based on LSTM
 - [🔗 Repository Link](https://github.com/andrea-crobu/AI-Powered-Image-Caption-Generation)
 
-### **3️⃣ Cooking Assistant Chatbot powered by RAG (coming soon!)**
-- **Description:** Developing a Retrieval-Augmented Generation (RAG) system to enhance the accuracy and reliability of a Large Language Model in answering questions about a cooking book.
-- **Technologies:** Python, LangChain
-- **Highlights:** Retrieval-Augmented Generation (RAG), improved factual consistency, knowledge-based query answering
-- [🔗 Repository Link](#) *(Coming Soon)*
 
-  
 ## 🛠️ Skills & Tech Stack
 - **Machine Learning & AI:** PyTorch, TensorFlow, sklearn, transformers
 - **Software Engineering:** Python, C, C++ (basic), Linux
