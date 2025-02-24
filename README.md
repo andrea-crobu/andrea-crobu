@@ -34,6 +34,13 @@ Feel free to explore my projects and connect with me!
 - **Highlights:** development from scratch of an EncoderCNN using a pretrained ResNet-152 and a custom Decoder based on LSTM
 - [🔗 Repository Link](https://github.com/andrea-crobu/AI-Powered-Image-Caption-Generation)
 
+### **4️⃣ Fine-Tune a Pretrained BERT for Twitter Sentiment Analysis**
+- **Description:** Finetuned a pretrained BERT model to perform sentiment analysis on a Twitter dataset, classifying tweets as positive, negative, or neutral.
+- **Technologies:** Python, PyTorch, Hugging Face Transformers
+- **Highlights:** NLP, custom data preprocessing, robust sentiment classification on social media data
+- [🔗 Repository Link](https://github.com/andrea-crobu/Sentiment-analysis-using-BERT)
+
+
 
 ## 🛠️ Skills & Tech Stack
 - **Machine Learning & AI:** PyTorch, TensorFlow, sklearn, transformers
