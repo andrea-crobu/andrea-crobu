@@ -16,25 +16,31 @@ Feel free to explore my projects and connect with me!
 
 ## 🔥 Featured Projects
 
-### **1️⃣ Cooking Assistant powered by RAG**
+### **1️⃣ Cyber Threat Intelligence (CTI) LLM Analysis**  
+- **Description:** Fine-tuned a Llama-3.2 (3B) model to analyze threat reports, extract entities and relations, and generate diagnoses.  
+- **Technologies:** Python, PyTorch, Transformers, LoRA, Hugging Face  
+- **Highlights:** Custom prompt design, dynamic masking, efficient fine-tuning with LoRA, significant performance improvements in ROUGE metrics  
+- [🔗 Repository Link](https://github.com/andrea-crobu/Cyber-Threat-Intelligence-CTI-LLM-Analyst/tree/main)
+
+### **2️⃣ Cooking Assistant powered by RAG**
 - **Description:** Developing a Retrieval-Augmented Generation (RAG) system to enhance the accuracy and reliability of a Large Language Model in answering questions about a cooking book.
 - **Technologies:** Python, LangChain
 - **Highlights:** Retrieval-Augmented Generation (RAG), improved factual consistency, knowledge-based query answering
 - [🔗 Repository Link](https://github.com/andrea-crobu/Cooking-Assistant-powered-by-RAG)
   
-### **2️⃣ Fine-Tune a Large Language Model (LLM) for conversation summarisation**
+### **3️⃣ Fine-Tune a Large Language Model (LLM) for conversation summarisation**
 - **Description:** Finetuned a Flan-T5 (base) to summarise a conversation
 - **Technologies:** Python, PyTorch, TensorFlow, transformers
 - **Highlights:** NLP, dataset preprocessing using custom pipeline, achievement of better results using LoRA
 - [🔗 Repository Link](https://github.com/andrea-crobu/Fine-Tune-a-Large-Language-Model-LLM-for-conversation-summarisation)
 
-### **3️⃣ AI-Powered Image Caption Generation**
+### **4️⃣ AI-Powered Image Caption Generation**
 - **Description:** from-scratch development of a Encoder-Decoder model that takes an image in input and outputs a caption for it
 - **Technologies:** Python, PyTorch, TensorFlow, CNN, LSTM
 - **Highlights:** development from scratch of an EncoderCNN using a pretrained ResNet-152 and a custom Decoder based on LSTM
 - [🔗 Repository Link](https://github.com/andrea-crobu/AI-Powered-Image-Caption-Generation)
 
-### **4️⃣ Fine-Tune a Pretrained BERT for Twitter Sentiment Analysis**
+### **5️⃣ Fine-Tune a Pretrained BERT for Twitter Sentiment Analysis**
 - **Description:** Finetuned a pretrained BERT model to perform sentiment analysis on a Twitter dataset, classifying tweets as positive, negative, or neutral.
 - **Technologies:** Python, PyTorch, Hugging Face Transformers
 - **Highlights:** NLP, custom data preprocessing, robust sentiment classification on social media data
