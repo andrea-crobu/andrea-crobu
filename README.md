@@ -6,13 +6,13 @@ Here, you'll find projects showcasing my expertise in deep learning and Gen-AI. 
 
 ## 📌 GitHub Profile Overview
 Hi, I'm Andrea Crobu, an AI Engineer with experience in machine learning, deep learning, and robotics. 
-While my main expertise focuses on developing intelligent systems for human robotics application, here I have collected some project in Generative AI I have been working on. \
+Here I have collected some project in Generative AI I have been working on. \
 Feel free to explore my projects and connect with me!
 
 ### 🌟 About me:
 - 🚀 Passionate about Generative AI for real-world applications
-- 🏆 Experienced in deep learning, Embedded AI for robotics, time-series analysis and GenAI
-- 🛠️ Skilled in Python, PyTorch, TensorFlow and DevOps
+- 🏆 Experienced in Generative AI, Deep Learning, Embedded AI for robotics and time-series analysis
+- 🛠️ Skilled in Python, PyTorch, TensorFlow, Hugging Face, LangChain and DevOps
 
 ## 🔥 Featured Projects
 
